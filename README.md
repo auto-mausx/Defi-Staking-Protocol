@@ -12,6 +12,10 @@ This is the most common staking protocol used in DeFi. This is a very minimalist
 
 This does not take into account what the staked tokens are used for at this time, so ideally the protocol owner can determine what to do with the tokens staked to leverage the tokens of other people, while rewarding the investors.
 
+## Front End
+
+I also have a simple front end to utilize these contracts and can be found [here](https://github.com/auto-mausx/Defi-Staking-Protocol-Front-End), also from the Chainlink Hackathon 2022.
+
 ## Getting Started
 
 - run `yarn install` to install all needed dependancies
@@ -23,7 +27,6 @@ This does not take into account what the staked tokens are used for at this time
 ## Technologies Used
 
 - Hardhat
-- Ethers.js
 - OpenZeppelin
 - Solidity
 
